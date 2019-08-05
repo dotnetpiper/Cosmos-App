@@ -5,9 +5,9 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/core/sdk:2.2-stretch AS build
 WORKDIR /src
-COPY ["CosmosDb_Demo_Crud/CosmosDb_Demo_Crud.csproj", "CosmosDb_Demo_Crud/"]
-COPY ["DataContextLayer/DataContextLayer.csproj", "DataContextLayer/"]
-COPY ["ModelClass/ModelClass.csproj", "ModelClass/"]
+COPY ["/CosmosDb_Demo_Crud/CosmosDb_Demo_Crud.csproj", "/CosmosDb_Demo_Crud/"]
+COPY ["/DataContextLayer/DataContextLayer.csproj", "/DataContextLayer/"]
+COPY ["/ModelClass/ModelClass.csproj", "/ModelClass/"]
 RUN dotnet restore "CosmosDb_Demo_Crud/CosmosDb_Demo_Crud.csproj"
 COPY . .
 WORKDIR "/src/CosmosDb_Demo_Crud"
