@@ -1,0 +1,9 @@
+C:\Learning\SampleApps\CosmosDb_Demo_Crud\ModelClass\bin\Debug\netcoreapp2.2\ModelClass.deps.json
+C:\Learning\SampleApps\CosmosDb_Demo_Crud\ModelClass\bin\Debug\netcoreapp2.2\ModelClass.dll
+C:\Learning\SampleApps\CosmosDb_Demo_Crud\ModelClass\bin\Debug\netcoreapp2.2\ModelClass.pdb
+C:\Learning\SampleApps\CosmosDb_Demo_Crud\ModelClass\obj\Debug\netcoreapp2.2\ModelClass.csprojAssemblyReference.cache
+C:\Learning\SampleApps\CosmosDb_Demo_Crud\ModelClass\obj\Debug\netcoreapp2.2\ModelClass.csproj.CoreCompileInputs.cache
+C:\Learning\SampleApps\CosmosDb_Demo_Crud\ModelClass\obj\Debug\netcoreapp2.2\ModelClass.AssemblyInfoInputs.cache
+C:\Learning\SampleApps\CosmosDb_Demo_Crud\ModelClass\obj\Debug\netcoreapp2.2\ModelClass.AssemblyInfo.cs
+C:\Learning\SampleApps\CosmosDb_Demo_Crud\ModelClass\obj\Debug\netcoreapp2.2\ModelClass.dll
+C:\Learning\SampleApps\CosmosDb_Demo_Crud\ModelClass\obj\Debug\netcoreapp2.2\ModelClass.pdb

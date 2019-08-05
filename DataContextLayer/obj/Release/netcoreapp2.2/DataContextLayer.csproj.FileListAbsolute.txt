@@ -1,0 +1,12 @@
+C:\Learning\SampleApps\CosmosDb_Demo_Crud\DataContextLayer\bin\Release\netcoreapp2.2\DataContextLayer.deps.json
+C:\Learning\SampleApps\CosmosDb_Demo_Crud\DataContextLayer\bin\Release\netcoreapp2.2\DataContextLayer.dll
+C:\Learning\SampleApps\CosmosDb_Demo_Crud\DataContextLayer\bin\Release\netcoreapp2.2\DataContextLayer.pdb
+C:\Learning\SampleApps\CosmosDb_Demo_Crud\DataContextLayer\bin\Release\netcoreapp2.2\ModelClass.dll
+C:\Learning\SampleApps\CosmosDb_Demo_Crud\DataContextLayer\bin\Release\netcoreapp2.2\ModelClass.pdb
+C:\Learning\SampleApps\CosmosDb_Demo_Crud\DataContextLayer\obj\Release\netcoreapp2.2\DataContextLayer.csprojAssemblyReference.cache
+C:\Learning\SampleApps\CosmosDb_Demo_Crud\DataContextLayer\obj\Release\netcoreapp2.2\DataContextLayer.csproj.CoreCompileInputs.cache
+C:\Learning\SampleApps\CosmosDb_Demo_Crud\DataContextLayer\obj\Release\netcoreapp2.2\DataContextLayer.AssemblyInfoInputs.cache
+C:\Learning\SampleApps\CosmosDb_Demo_Crud\DataContextLayer\obj\Release\netcoreapp2.2\DataContextLayer.AssemblyInfo.cs
+C:\Learning\SampleApps\CosmosDb_Demo_Crud\DataContextLayer\obj\Release\netcoreapp2.2\DataContextLayer.csproj.CopyComplete
+C:\Learning\SampleApps\CosmosDb_Demo_Crud\DataContextLayer\obj\Release\netcoreapp2.2\DataContextLayer.dll
+C:\Learning\SampleApps\CosmosDb_Demo_Crud\DataContextLayer\obj\Release\netcoreapp2.2\DataContextLayer.pdb
