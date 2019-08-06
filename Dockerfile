@@ -7,7 +7,6 @@ FROM mcr.microsoft.com/dotnet/core/sdk:2.2-stretch AS build
 
 
 COPY CosmosDb_Demo_Crud.sln ./
-COPY NuGet.config ./ 
 COPY ["CosmosDb_Demo_Crud/CosmosDb_Demo_Crud.csproj", "/CosmosDb_Demo_Crud/"]
 COPY ["DataContextLayer/DataContextLayer.csproj", "/DataContextLayer/"]
 COPY ["ModelClass/ModelClass.csproj", "/ModelClass/"]
