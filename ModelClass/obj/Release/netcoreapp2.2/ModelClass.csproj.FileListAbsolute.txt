@@ -6,3 +6,4 @@ C:\Learning\SampleApps\CosmosDb_Demo_Crud\ModelClass\obj\Release\netcoreapp2.2\M
 C:\Learning\SampleApps\CosmosDb_Demo_Crud\ModelClass\obj\Release\netcoreapp2.2\ModelClass.AssemblyInfo.cs
 C:\Learning\SampleApps\CosmosDb_Demo_Crud\ModelClass\obj\Release\netcoreapp2.2\ModelClass.dll
 C:\Learning\SampleApps\CosmosDb_Demo_Crud\ModelClass\obj\Release\netcoreapp2.2\ModelClass.pdb
+C:\Learning\SampleApps\CosmosDb_Demo_Crud\ModelClass\obj\Release\netcoreapp2.2\ModelClass.csprojAssemblyReference.cache
